@@ -98,7 +98,7 @@
 	"gran_position_x":	1,
 	"gran_position_y":	1,
 	"gran_rate_noise":	0,
-	"gran_rate":	880,
+	"gran_rate":	3.500000,
 	"gran_density":	4,
 	"gran_pitch":	1.000000,
 	"gran_pitch_env":	0,
@@ -163,7 +163,7 @@
 	},
 	"key_scale":	"African/kora4",
 	"preset":	"Kaivo default",
-	"sample_name":	"glass impacts",
+	"sample_name":	"Fire/stencil machine",
 	"maker_name":	"Madrona Labs",
 	"app_name":	"Kaivo",
 	"app_version":	66306
